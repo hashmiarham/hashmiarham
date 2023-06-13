@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arham Zafar Hashmi</h1>
-<h3 align="center">An aspiring Data Scientist from India... Web Development freelancer</h3>
+<h3 align="center">An aspiring Data Scientist & a part time Web Developer from India...</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
