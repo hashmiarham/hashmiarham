@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hashmiarham123](https://github.com/hashmiarham123)
 
-- 📫 How to reach me **azafarhashmi@gmail.com**
+- 📫 Reach me via **azafarhashmi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
