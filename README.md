@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arham Zafar Hashmi</h1>
 <h3 align="center">A passionate Data Scientist and Frontend Developer from India</h3>
 
-- 🔭 I’m currently working on **Face Recognition Based Attendance System**
+- 🔭 I’m currently working on **Online Educational Platform**
 
 - 📫 How to reach me **azafarhashmi@gmail.com**
 
